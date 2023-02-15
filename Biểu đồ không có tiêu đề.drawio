@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T08:58:08.776Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3vTr0noVMQi5aaMTz3F3" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T04:13:47.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Kno0-qmWpXY-Wp6hze6d" version="20.8.20" type="github">
   <diagram name="Trang-1" id="HqvFMTSTbH05UH5FTUY0">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_VfWwBg1R9OOmXqpx0li-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b id=&quot;docs-internal-guid-dc832b98-7fff-0623-959d-5b30708d684d&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Arial; color: rgb(47, 84, 150); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:654px;height:345px;&quot;&gt;&lt;img style=&quot;margin-left:0px;margin-top:0px;&quot; height=&quot;345&quot; width=&quot;654&quot; src=&quot;https://lh3.googleusercontent.com/ze7yHAyfvXchqz5Aktlz50peDBe9rw-0cDfzlI2KUZtZuZu_f3Bh4Bstj9weR9_x24MwHdTaL-AKAk2mwBRycuVZgxh0mgt8BUoxgpgHB-d9mP9IBuQ8oGESt-Iq1zrJ_9BL279PdYB-&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="200" width="560" height="370" as="geometry" />
+        <mxCell id="_VfWwBg1R9OOmXqpx0li-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b id=&quot;docs-internal-guid-dc832b98-7fff-0623-959d-5b30708d684d&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Arial; color: rgb(47, 84, 150); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:654px;height:345px;&quot;&gt;&lt;img style=&quot;margin-left:0px;margin-top:0px;&quot; height=&quot;345&quot; width=&quot;654&quot; src=&quot;https://lh3.googleusercontent.com/ze7yHAyfvXchqz5Aktlz50peDBe9rw-0cDfzlI2KUZtZuZu_f3Bh4Bstj9weR9_x24MwHdTaL-AKAk2mwBRycuVZgxh0mgt8BUoxgpgHB-d9mP9IBuQ8oGESt-Iq1zrJ_9BL279PdYB-&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="230" width="560" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
